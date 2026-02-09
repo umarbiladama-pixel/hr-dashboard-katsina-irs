@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+
+# React
+/build
+/.cache
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+package-lock.json
